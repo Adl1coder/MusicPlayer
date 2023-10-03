@@ -22,6 +22,11 @@ Uygulama kullanımı oldukça basittir:
 5. Ses seviyesini ayarlamak veya kısmak için ses kontrol düğmelerini kullanabilirsiniz.
 6. Müziği tamamen durdurmak için "Stop" düğmesini kullanın.
 
+## Video
+
+https://github.com/Adl1coder/MusicPlayer/assets/93915867/a6c7cd88-ac7e-4984-bf0d-b8569d33b130
+
+
 
 
 
