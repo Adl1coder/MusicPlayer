@@ -22,8 +22,6 @@ Uygulama kullanımı oldukça basittir:
 5. Ses seviyesini ayarlamak veya kısmak için ses kontrol düğmelerini kullanabilirsiniz.
 6. Müziği tamamen durdurmak için "Stop" düğmesini kullanın.
 
-## GIF:
 
-![musicplayer](https://github.com/Adl1coder/MusicPlayer/assets/93915867/67f5a9bd-5c37-4e10-9f6e-fa0503c3a361)
 
 
